@@ -1,6 +1,5 @@
 # OpenCVAndroid
-First test using OpenCV on android
-
+First test using OpenCV on android, based on the example provided by OpenCV.
 
 Dont forget to include the native library files from OpenCV/sdk/native/libs.
 
