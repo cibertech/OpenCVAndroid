@@ -1,3 +1,0 @@
-include ':app'
-rootProject.name='OpenCV Android'
-include ':openCVLibrary347'
